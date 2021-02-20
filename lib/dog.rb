@@ -5,4 +5,4 @@ fido = Dog.new
 snoopy = Dog.new
 lassie = Dog.new
 
-puts fido.oject_id
+puts fido.object_id
